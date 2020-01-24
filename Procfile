@@ -1,1 +1,1 @@
-web: gunicorn dev-list.wsgi
+web: gunicorn dev-list:app
