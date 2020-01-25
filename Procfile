@@ -1,1 +1,1 @@
-web: gunicorn dev-list.wsgi --log-file -
+web: gunicorn dev-list:app
