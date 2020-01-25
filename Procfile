@@ -1,1 +1,1 @@
-web: gunicorn dev-list:app
+web: gunicorn dev_list:app
